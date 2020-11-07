@@ -8,5 +8,4 @@ Hier unten werden alle Fächer in zufälliger Reihenfolge aufgeführt.
 
 * [Musik](./musik/index.md)
 	* [Klausur Barock/Klassik und Generalbass](./musik/kl-1/index.md)
-		* [PDF](./kl-1/Klausur1.pdf)
-___
+		* [PDF](https://github.com/adamane/schule-zusammenfassungen/raw/main/musik/kl-1/Klausur1.pdf)
