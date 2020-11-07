@@ -64,8 +64,13 @@ Episoden werden vom Soli(concertino) gespielt
 
 Von ca. 1779 bis 1825
 
+Wichtige Künstler:
+* Ludwig van Beethoven
+* Joseph Haydn
+* Wolfgang Amadeus Mozart
+
 Standartisierung und Vergrößerung der Orchesterbesetzung
-* Streicher _(Violine 1 + 2, Viola, Cello, Kontrabass)
+* Streicher _(Violine 1 + 2, Viola, Cello, Kontrabass)_
 * Bläser _Je 2 Fach besetzt (Horn, Klarinette, Trompete, Oboe, Fagott, Querflöte)_
 * Pauken _2 Töne, in der Regel Grund- und Quintton_
 Feste Sitzordnung, nur noch unterschiede nach Dirigent oder Region
