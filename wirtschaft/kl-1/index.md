@@ -233,3 +233,27 @@ Umsatzrentabilität = ------------- * 100%
 						Umsatz
 Umsatzrentabilität beschreibt das Verhältniss zwischen Gewinnen und Erlösen
 ```
+
+#### Kosten, Erträge und Gewinne
+
+
+Man kann die Kosten in Gesammt und Stückkosten Aufteilen.
+Unter jedem Punkt gibt es Fixe und Variabele Kosten.
+
+Fixe Kosten sind zb. Mietkosten für eine Halle, wärend Variable Kosten zum Beispiel Materialkosten einbegreifen.
+
+```
+Gesamtkosten = Fixkosten + Variable Kosten
+Stückkosten = Gesamtkosten/Produzierte Menge
+```
+
+##### Der Break-Even Point
+
+An diesem Punkt sind die Ausgaben im Lot mit den Einnamen, man macht also weder verluste, noch Gewinne.
+
+##### Zusammenhang
+
+Je mehr Produziert wird, je mehr Gewinn wird erziehlt.
+
+
+Hindernisse für undendlich Gewinn sind Maximale Produktionskapazität und endliche Nachfrage.
